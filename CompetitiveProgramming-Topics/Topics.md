@@ -13,7 +13,6 @@
   - Prefixes & Suffixes
   - Cumulative Sums
   - Ternary Search
-  - Backtracking
   - Graphs
       * Graph Representation
       * Directed Graphs & Undirected Graphs
@@ -26,6 +25,7 @@
   - Graph Traversals
   - Dijkstra
 ## To Learn
+  - Backtracking
   - Mathematical Series
   - Dynamic Programming
   - Counting
