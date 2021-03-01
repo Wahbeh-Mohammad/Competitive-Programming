@@ -9,6 +9,7 @@
  - Two Pointers
  - Binary Search
 ## To Re-Learn
+  - Parity
   - Prefixes & Suffixes
   - Cumulative Sums
   - Ternary Search
