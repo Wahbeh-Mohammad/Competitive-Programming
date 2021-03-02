@@ -1,7 +1,6 @@
 # List of the problems that i need to solve.
 _________________________
 ## Codeforces
-_________________________
 ### Math
 - https://codeforces.com/contest/584/problem/A
 ### Prefixes & Suffixes 
@@ -16,6 +15,8 @@ _________________________
 - https://codeforces.com/contest/1028/problem/D
 ### Math and GCDs
 - https://codeforces.com/contest/66/problem/D
+### Binary Search
+- https://codeforces.com/problemset/problem/439/D
 _________________________
 ## AtCoder
 - https://atcoder.jp/contests/abc103/tasks/abc103_c
