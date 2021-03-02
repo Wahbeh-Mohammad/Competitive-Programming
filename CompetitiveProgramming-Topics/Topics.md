@@ -4,6 +4,8 @@
       * Stacks
       * Queues ( & Priority Queues )
       * and more.
+      ### >> Data Structures are used in a variety of problems but their main shine is in Implementation questions
+--------------------------
  - Sorting algorithms
  - Frequency Arrays
  - Two Pointers
