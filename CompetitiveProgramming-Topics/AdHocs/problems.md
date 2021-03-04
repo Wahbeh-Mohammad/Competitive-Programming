@@ -4,3 +4,4 @@
 - https://codeforces.com/contest/1213/problem/B >> Bad Prices
 - https://codeforces.com/contest/1335/problem/B >> Construct the String
 - https://codeforces.com/contest/1095/problem/B >> Array Stabilization
+- https://codeforces.com/problemset/gymProblem/102191/E >> Snake Moves
