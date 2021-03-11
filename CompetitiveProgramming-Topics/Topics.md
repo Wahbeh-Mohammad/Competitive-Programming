@@ -9,8 +9,8 @@
  - Two Pointers
  - Binary Search
  - Prefixes & Suffixes
+ - Cumulative Sums
 ## To Re-Learn
-  - Cumulative Sums
   - Ternary Search
   - Graphs
       * Graph Representation
