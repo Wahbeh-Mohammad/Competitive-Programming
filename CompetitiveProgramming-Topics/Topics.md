@@ -8,9 +8,8 @@
  - Frequency Arrays
  - Two Pointers
  - Binary Search
+ - Prefixes & Suffixes
 ## To Re-Learn
-  - Parity
-  - Prefixes & Suffixes
   - Cumulative Sums
   - Ternary Search
   - Graphs
