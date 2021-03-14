@@ -7,3 +7,4 @@
 - https://codeforces.com/problemset/gymProblem/102191/E >> Snake Moves
 - https://codeforces.com/contest/1490/problem/B >> Balanced Remainders
 - https://codeforces.com/contest/61/problem/B >> Hard Work
+- https://codeforces.com/contest/686/problem/B >> Robber girl's zoo
