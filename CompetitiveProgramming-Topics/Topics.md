@@ -11,8 +11,8 @@
  - Prefixes & Suffixes
  - Cumulative Sums
  - Recursion
+ - Ternary Search
 ## To Re-Learn
-  - Ternary Search
   - Graphs
       * Graph Representation
       * Directed Graphs & Undirected Graphs
