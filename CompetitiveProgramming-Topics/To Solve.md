@@ -11,6 +11,7 @@ _________________________
 - https://codeforces.com/problemset/problem/26/B
 ### Graphs
 - https://codeforces.com/contest/1037/problem/D
+- https://codeforces.com/contest/20/problem/C
 ### Segment Tree
 - https://codeforces.com/contest/1028/problem/D
 ### Math and GCDs
