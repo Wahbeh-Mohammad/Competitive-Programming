@@ -9,15 +9,27 @@ _________________________
 - https://codeforces.com/contest/1037/problem/C 
 - https://codeforces.com/contest/1028/problem/C {Geometry} 
 - https://codeforces.com/problemset/problem/26/B
+- https://codeforces.com/contest/612/problem/C
+- https://codeforces.com/contest/116/problem/B
+- https://codeforces.com/contest/1023/problem/C
+- https://codeforces.com/contest/1311/problem/D
 ### Graphs
 - https://codeforces.com/contest/1037/problem/D
 - https://codeforces.com/contest/20/problem/C
+- https://codeforces.com/contest/450/problem/D
+- https://codeforces.com/contest/217/problem/A
+- https://codeforces.com/contest/598/problem/D
+- https://codeforces.com/contest/378/problem/C
+- https://codeforces.com/contest/1214/problem/D
 ### Segment Tree
 - https://codeforces.com/contest/1028/problem/D
 ### Math and GCDs
 - https://codeforces.com/contest/66/problem/D
 ### Binary Search
 - https://codeforces.com/problemset/problem/439/D
+- https://codeforces.com/contest/600/problem/B
+- https://codeforces.com/contest/978/problem/C
+
 _________________________
 ## AtCoder
 - https://atcoder.jp/contests/abc103/tasks/abc103_c
