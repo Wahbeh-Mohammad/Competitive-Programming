@@ -27,7 +27,6 @@ _________________________
 - https://codeforces.com/contest/66/problem/D
 ### Binary Search
 - https://codeforces.com/problemset/problem/439/D
-- https://codeforces.com/contest/600/problem/B
 - https://codeforces.com/contest/978/problem/C
 
 _________________________
