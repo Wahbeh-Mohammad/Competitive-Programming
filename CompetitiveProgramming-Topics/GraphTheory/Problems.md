@@ -6,3 +6,4 @@ so i put the problem's text inside the solution file
 - https://codeforces.com/contest/378/problem/C >> Maze
 - https://codeforces.com/group/qAGblhphAA/contest/227610/problem/D >> Dead men tell no tails **
 - https://codeforces.com/contest/598/problem/D >> Igor in the museam
+- https://codeforces.com/contest/1214/problem/D >> Treasure Island
