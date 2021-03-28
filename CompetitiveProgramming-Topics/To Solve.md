@@ -18,7 +18,6 @@ _________________________
 - https://codeforces.com/contest/20/problem/C
 - https://codeforces.com/contest/450/problem/D
 - https://codeforces.com/contest/217/problem/A
-- https://codeforces.com/contest/1214/problem/D
 - https://codeforces.com/contest/893/problem/C
 - https://codeforces.com/contest/1167/problem/C
 - https://codeforces.com/contest/1176/problem/E
