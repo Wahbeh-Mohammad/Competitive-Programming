@@ -38,4 +38,3 @@ _________________________
 - https://atcoder.jp/contests/arc059/tasks/arc059_b
 - https://atcoder.jp/contests/abc088/tasks/abc088_c
 - https://atcoder.jp/contests/abc096/tasks/abc096_d
-- https://atcoder.jp/contests/agc004/tasks/agc004_c
