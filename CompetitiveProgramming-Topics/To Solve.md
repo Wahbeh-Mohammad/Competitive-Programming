@@ -6,6 +6,7 @@ _________________________
 ### Prefixes & Suffixes 
 - https://codeforces.com/problemset/problem/432/D {AdHoc}
 ### Ad Hocs
+- https://codeforces.com/problemset/problem/5/C
 - https://codeforces.com/problemset/problem/289/B
 - https://codeforces.com/contest/1037/problem/C 
 - https://codeforces.com/contest/1028/problem/C {Geometry} 
