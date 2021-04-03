@@ -4,7 +4,7 @@ _________________________
 ### Math
 - https://codeforces.com/contest/584/problem/A
 ### Prefixes & Suffixes 
-- https://codeforces.com/problemset/problem/432/D {AdHoc}
+- https://codeforces.com/problemset/problem/432/D
 ### Ad Hocs
 - https://codeforces.com/problemset/problem/5/C
 - https://codeforces.com/problemset/problem/289/B
