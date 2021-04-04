@@ -9,3 +9,4 @@
 - https://codeforces.com/contest/61/problem/B >> Hard Work
 - https://codeforces.com/contest/686/problem/B >> Robber girl's zoo
 - https://codeforces.com/problemset/problem/289/B >> Polo the penguin & matrix
+- https://codeforces.com/contest/1023/problem/C >> Bracket Subsequence
