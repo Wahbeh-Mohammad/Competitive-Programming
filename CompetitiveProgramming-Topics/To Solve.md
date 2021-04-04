@@ -7,7 +7,6 @@ _________________________
 - https://codeforces.com/problemset/problem/432/D
 ### Ad Hocs
 - https://codeforces.com/problemset/problem/5/C
-- https://codeforces.com/problemset/problem/289/B
 - https://codeforces.com/contest/1037/problem/C 
 - https://codeforces.com/contest/1028/problem/C {Geometry} 
 - https://codeforces.com/problemset/problem/26/B
