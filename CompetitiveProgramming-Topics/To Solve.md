@@ -27,7 +27,8 @@ _________________________
 ### Binary Search
 - https://codeforces.com/problemset/problem/439/D
 - https://codeforces.com/contest/978/problem/C
-
+### 2 Pointer / Cumulative sum ?
+- https://codeforces.com/contest/873/problem/B
 _________________________
 ## AtCoder
 - https://atcoder.jp/contests/abc103/tasks/abc103_c
