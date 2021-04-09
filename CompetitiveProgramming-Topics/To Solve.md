@@ -7,7 +7,6 @@ _________________________
 - https://codeforces.com/problemset/problem/5/C
 - https://codeforces.com/contest/1037/problem/C 
 - https://codeforces.com/contest/1028/problem/C {Geometry} 
-- https://codeforces.com/problemset/problem/26/B
 - https://codeforces.com/contest/612/problem/C
 - https://codeforces.com/contest/116/problem/B
 - https://codeforces.com/contest/1023/problem/C
