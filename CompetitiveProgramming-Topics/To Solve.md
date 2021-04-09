@@ -1,8 +1,6 @@
 # List of the problems that i need to solve.
 _________________________
 ## Codeforces
-### Math
-- https://codeforces.com/contest/584/problem/A
 ### Prefixes & Suffixes 
 - https://codeforces.com/problemset/problem/432/D
 ### Ad Hocs
