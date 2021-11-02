@@ -1,4 +1,5 @@
 # Binary Search
+```
 while(l<=r){
     mid = (l+r)/2;
     if(a[mid] == x){
@@ -10,3 +11,4 @@ while(l<=r){
         r = mid - 1;
     }
 }
+```
