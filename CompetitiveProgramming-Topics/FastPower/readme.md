@@ -4,7 +4,7 @@
 ```
 int fastPower(int a, int b) {
   if(b==0) return 1;
-  int temp = power(a, b/2);
+  int temp = fastPower(a, b/2);
   int result = temp * temp;
   if(b%2) result *= a;
   return result;
