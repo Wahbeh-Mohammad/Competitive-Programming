@@ -6,3 +6,4 @@
 - https://codeforces.com/contest/1183/problem/B >> Equalize Prices
 - https://codeforces.com/problemset/problem/706/B/ >> Interesting Drink
 - https://codeforces.com/contest/600/problem/B >> Queries about less or equal elements
+- https://codeforces.com/problemset/problem/1366/A >> Swords & Shovels
