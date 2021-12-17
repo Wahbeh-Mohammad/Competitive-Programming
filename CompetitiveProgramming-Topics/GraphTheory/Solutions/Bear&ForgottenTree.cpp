@@ -31,7 +31,6 @@ void solve(){
                 nextnode++;
             }
         } else {
-            if(d == h-1) {cout << -1;return;}
             ll temp = h;
             while(h){
                 cout << curnode << " " << nextnode << "\n";
