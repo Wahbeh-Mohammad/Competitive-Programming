@@ -8,3 +8,5 @@ so i put the problem's text inside the solution file
 - https://codeforces.com/contest/598/problem/D >> Igor in the museam
 - https://codeforces.com/contest/1214/problem/D >> Treasure Island
 - https://codeforces.com/problemset/problem/639/B >> Bear and Forgotten Tree 3
+- https://codeforces.com/contest/450/problem/D >> Jizzhu & Cities
+- https://codeforces.com/contest/20/problem/C >> Dijkstra?
