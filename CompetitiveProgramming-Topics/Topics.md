@@ -1,34 +1,38 @@
 # Topics
-## Learned
+# Level 1
   - Data Structures
+      * Array, Vector
       * Stacks
       * Queues ( & Priority Queues )
-      * and more.
- - Sorting algorithms
+      * 
+ - Sorting & Searching:
+      * Sorting, Custom Sorting
+      * Searching, Binary Search & Ternary Search
  - Frequency Arrays
- - Two Pointers
- - Binary Search
  - Prefixes & Suffixes
  - Cumulative Sums
- - Recursion
- - Ternary Search
-## To Re-Learn
-  - Graphs
+ - Binary Search
+ - Two Pointers
+ - Recursion & Backtracking
+# Level 2
+ - Graphs
       * Graph Representation
       * Directed Graphs & Undirected Graphs
       * Weighted & Unweighted
       * Connected & Unconnected
-  - Special Graphs
-      * Trees
-      * Bipartite
-      * DAG (Directed Acyclic Graph)
-  - Graph Traversals
-  - Dijkstra
-## To Learn
-  - Backtracking
-  - Mathematical Series
+      * Special Graphs
+        - Trees
+        - Bipartite
+        - More
+      * Graph Traversals
+        - DFS
+        - BFS
+      * Dijkstra
+# Level 3
   - Dynamic Programming
   - Counting
   - Trie Structure
   - Segment Tree
+
+# Hmm
   - Heaps
