@@ -10,3 +10,7 @@
 | <=10k       | O(n^2)                    | Sorting algorithms such as Selection sort |
 | <=1M        | O(nlog2n)                 | Segment Tree, Merge sort |
 | <= 100M     | O(n), O(log2n), O(1)      | Math problems |
+---------------------------------------------------------------
+
+## Good Codeforces blog
+- https://codeforces.com/blog/entry/21344
