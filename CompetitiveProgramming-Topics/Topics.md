@@ -4,7 +4,7 @@
       * Array, Vector
       * Stacks
       * Queues ( & Priority Queues )
-      * 
+      * More
  - Sorting & Searching:
       * Sorting, Custom Sorting
       * Searching, Binary Search & Ternary Search
